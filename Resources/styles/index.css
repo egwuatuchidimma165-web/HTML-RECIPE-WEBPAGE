@@ -1,45 +1,44 @@
 /*element selector*/
 /*header styling*/
 header {
-    color: rgb(145, 136, 136);
-    text-align: center;
-    padding: 20px;
-    text-decoration: underline;
-    font-weight: 900;
-    font-size: 100px
+  color: rgb(145, 136, 136);
+  text-align: center;
+  padding: 20px;
+  text-decoration: underline;
+  font-weight: 900;
+  font-size: 100px;
 }
 
 /*body styling*/
-body{
-    font-family: Arial, sans-serif;
-    background-color: white;
-    margin: 0;
-    padding: 20px;
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 20px;
 }
 h1,
 h4 {
-    color: rgb(167, 36, 108);
-    text-align: center;
-    padding: 20px;
-    text-decoration: underline;
-    font-weight: 700;
-    font-size: 18px;
+  color: rgb(167, 36, 108);
+  text-align: center;
+  padding: 20px;
+  text-decoration: underline;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 /*image styling*/
 .center-image {
-    display: block;
-    margin: 5px auto;
-    width: 300px;
-    border-radius: 10px;
-
+  display: block;
+  margin: 5px auto;
+  width: 300px;
+  border-radius: 10px;
 }
 
 footer {
-    color: rgba(221, 160, 221, 0.212);
-    text-align: center;
-    padding: 10px;
-    text-decoration: underline;
-    font-weight: 4000;
-    font-size: 16px;
+  color: rgba(221, 160, 221, 0.212);
+  text-align: center;
+  padding: 10px;
+  text-decoration: underline;
+  font-weight: 4000;
+  font-size: 16px;
 }
